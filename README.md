@@ -1,10 +1,6 @@
-# Search Algorithm Visualizer
 
-A search visualization tool used for demonstrating common search algorithms.
 
-Find it here: https://justdare.github.io/Search-Algorithm-Visualizer/
-
-## The Algorithms
+ The Algorithms
 
 ### 1) Breadth First Search
 
@@ -14,7 +10,7 @@ Find it here: https://justdare.github.io/Search-Algorithm-Visualizer/
 
 ### 4) Dijkstra's Algorithm
 
-### 5) A\* Search
+
 
 ## Maze Generation
 
